@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def islower(c):
-    if (c >= 97 or c <= 122):
+    if (c >= 'a' or c <= 'z'):
         return (True)
     else:
         return (False)
